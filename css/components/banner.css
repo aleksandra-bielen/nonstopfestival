@@ -1,0 +1,23 @@
+.banner {
+	background-image: linear-gradient(-225deg, rgba(0,0,0,0.2) 0%, rgba(0,0,0,0.3) 50%), url(../../images/festival.jpeg);
+	color: white;
+	padding: 150px 0px;
+	background-size: cover;
+	background-position: center
+}
+
+.banner h1 {
+	font-size: 100px;
+	font-weight: 900;
+
+}
+
+.banner h2 {
+	font-size: 31px;
+	font-weight: 700;
+	font-family: Oswald;
+	margin-bottom: 60px;
+	margin-top: -80px;
+	color: white;
+
+}
